@@ -11,7 +11,7 @@ import SwiftUI
 struct BaseProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            FlagsUIView()
+            TabBarUIView()
         }
     }
 }

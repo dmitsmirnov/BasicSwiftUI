@@ -13,6 +13,17 @@
 		CE40D62E2BA833E800C2C1FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE40D62D2BA833E800C2C1FF /* Preview Assets.xcassets */; };
 		CE8828592BAC1BB10069421B /* FlagsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828582BAC1BB10069421B /* FlagsUIView.swift */; };
 		CE88285B2BAC2C340069421B /* ModifiersUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE88285A2BAC2C340069421B /* ModifiersUIView.swift */; };
+		CE88285D2BAD71E00069421B /* ObservedObjectUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE88285C2BAD71E00069421B /* ObservedObjectUIView.swift */; };
+		CE88285F2BAD74260069421B /* ObservedObject2UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE88285E2BAD74260069421B /* ObservedObject2UIView.swift */; };
+		CE8828612BAD76120069421B /* NavigationLinkUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828602BAD76120069421B /* NavigationLinkUIView.swift */; };
+		CE8828632BAD794C0069421B /* NavigationLink2UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828622BAD794C0069421B /* NavigationLink2UIView.swift */; };
+		CE8828652BB20FDE0069421B /* SheetUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828642BB20FDE0069421B /* SheetUIView.swift */; };
+		CE8828672BB212B80069421B /* UserDefaultsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828662BB212B80069421B /* UserDefaultsUIView.swift */; };
+		CE8828692BB21A880069421B /* MyExpensesUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8828682BB21A880069421B /* MyExpensesUIView.swift */; };
+		CE88286B2BB21FD20069421B /* MyExpensesAddUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE88286A2BB21FD20069421B /* MyExpensesAddUIView.swift */; };
+		CE88286D2BB2C0A60069421B /* ViewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE88286C2BB2C0A60069421B /* ViewsUIView.swift */; };
+		CEA0C1C22BBB527B00D059D6 /* AnimationUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA0C1C12BBB527B00D059D6 /* AnimationUIView.swift */; };
+		CEA0C1C42BBCA11F00D059D6 /* TabBarUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA0C1C32BBCA11F00D059D6 /* TabBarUIView.swift */; };
 		CEAE446C2BA8DD530012137F /* TextsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAE446B2BA8DD530012137F /* TextsView.swift */; };
 		CEAE446E2BA8E00A0012137F /* ImagesUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAE446D2BA8E00A0012137F /* ImagesUIView.swift */; };
 		CEAE44702BA8E5020012137F /* GragientsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAE446F2BA8E5020012137F /* GragientsUIView.swift */; };
@@ -38,6 +49,17 @@
 		CE40D62D2BA833E800C2C1FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE8828582BAC1BB10069421B /* FlagsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagsUIView.swift; sourceTree = "<group>"; };
 		CE88285A2BAC2C340069421B /* ModifiersUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifiersUIView.swift; sourceTree = "<group>"; };
+		CE88285C2BAD71E00069421B /* ObservedObjectUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObjectUIView.swift; sourceTree = "<group>"; };
+		CE88285E2BAD74260069421B /* ObservedObject2UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObject2UIView.swift; sourceTree = "<group>"; };
+		CE8828602BAD76120069421B /* NavigationLinkUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkUIView.swift; sourceTree = "<group>"; };
+		CE8828622BAD794C0069421B /* NavigationLink2UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLink2UIView.swift; sourceTree = "<group>"; };
+		CE8828642BB20FDE0069421B /* SheetUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetUIView.swift; sourceTree = "<group>"; };
+		CE8828662BB212B80069421B /* UserDefaultsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsUIView.swift; sourceTree = "<group>"; };
+		CE8828682BB21A880069421B /* MyExpensesUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyExpensesUIView.swift; sourceTree = "<group>"; };
+		CE88286A2BB21FD20069421B /* MyExpensesAddUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyExpensesAddUIView.swift; sourceTree = "<group>"; };
+		CE88286C2BB2C0A60069421B /* ViewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsUIView.swift; sourceTree = "<group>"; };
+		CEA0C1C12BBB527B00D059D6 /* AnimationUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUIView.swift; sourceTree = "<group>"; };
+		CEA0C1C32BBCA11F00D059D6 /* TabBarUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarUIView.swift; sourceTree = "<group>"; };
 		CEAE446B2BA8DD530012137F /* TextsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsView.swift; sourceTree = "<group>"; };
 		CEAE446D2BA8E00A0012137F /* ImagesUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesUIView.swift; sourceTree = "<group>"; };
 		CEAE446F2BA8E5020012137F /* GragientsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GragientsUIView.swift; sourceTree = "<group>"; };
@@ -100,10 +122,21 @@
 				CEAE447D2BA98BF10012137F /* ListsUIView.swift */,
 				CEAE447F2BAA2E7D0012137F /* Lists2UIView.swift */,
 				CEAE44812BAA32620012137F /* TabUIView.swift */,
+				CE8828682BB21A880069421B /* MyExpensesUIView.swift */,
+				CE88286A2BB21FD20069421B /* MyExpensesAddUIView.swift */,
+				CE88286C2BB2C0A60069421B /* ViewsUIView.swift */,
+				CEA0C1C12BBB527B00D059D6 /* AnimationUIView.swift */,
 				CEAE44832BAA356F0012137F /* FormsUIView.swift */,
 				CEAE44852BAAC7300012137F /* CalculateTipsUIView.swift */,
 				CE88285A2BAC2C340069421B /* ModifiersUIView.swift */,
+				CE88285C2BAD71E00069421B /* ObservedObjectUIView.swift */,
+				CE8828602BAD76120069421B /* NavigationLinkUIView.swift */,
+				CE8828622BAD794C0069421B /* NavigationLink2UIView.swift */,
+				CE8828642BB20FDE0069421B /* SheetUIView.swift */,
+				CE8828662BB212B80069421B /* UserDefaultsUIView.swift */,
+				CE88285E2BAD74260069421B /* ObservedObject2UIView.swift */,
 				CEAE44872BAAD32E0012137F /* AlertUIView.swift */,
+				CEA0C1C32BBCA11F00D059D6 /* TabBarUIView.swift */,
 				CE40D62A2BA833E800C2C1FF /* Assets.xcassets */,
 				CE40D62C2BA833E800C2C1FF /* Preview Content */,
 			);
@@ -188,21 +221,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE8828672BB212B80069421B /* UserDefaultsUIView.swift in Sources */,
 				CEAE44702BA8E5020012137F /* GragientsUIView.swift in Sources */,
 				CEAE44882BAAD32E0012137F /* AlertUIView.swift in Sources */,
+				CEA0C1C22BBB527B00D059D6 /* AnimationUIView.swift in Sources */,
+				CE8828612BAD76120069421B /* NavigationLinkUIView.swift in Sources */,
 				CEAE44762BA97C250012137F /* SliderUIView.swift in Sources */,
+				CE8828692BB21A880069421B /* MyExpensesUIView.swift in Sources */,
+				CE88285D2BAD71E00069421B /* ObservedObjectUIView.swift in Sources */,
 				CEAE44782BA97EE80012137F /* PickerUIView.swift in Sources */,
+				CE8828652BB20FDE0069421B /* SheetUIView.swift in Sources */,
+				CEA0C1C42BBCA11F00D059D6 /* TabBarUIView.swift in Sources */,
 				CEAE446E2BA8E00A0012137F /* ImagesUIView.swift in Sources */,
+				CE88285F2BAD74260069421B /* ObservedObject2UIView.swift in Sources */,
+				CE8828632BAD794C0069421B /* NavigationLink2UIView.swift in Sources */,
 				CEAE44842BAA356F0012137F /* FormsUIView.swift in Sources */,
 				CEAE447E2BA98BF10012137F /* ListsUIView.swift in Sources */,
 				CEAE447A2BA982420012137F /* StepperUIView.swift in Sources */,
 				CE40D6292BA833E500C2C1FF /* StacksView.swift in Sources */,
 				CEAE446C2BA8DD530012137F /* TextsView.swift in Sources */,
+				CE88286B2BB21FD20069421B /* MyExpensesAddUIView.swift in Sources */,
 				CEAE44802BAA2E7D0012137F /* Lists2UIView.swift in Sources */,
 				CEAE44722BA8E9F60012137F /* StateUIView.swift in Sources */,
 				CEAE44862BAAC7300012137F /* CalculateTipsUIView.swift in Sources */,
 				CEAE44822BAA32620012137F /* TabUIView.swift in Sources */,
 				CE8828592BAC1BB10069421B /* FlagsUIView.swift in Sources */,
+				CE88286D2BB2C0A60069421B /* ViewsUIView.swift in Sources */,
 				CEAE44742BA976E50012137F /* ButtonsUIView.swift in Sources */,
 				CEAE447C2BA9852E0012137F /* GestureUIView.swift in Sources */,
 				CE40D6272BA833E500C2C1FF /* BaseProjectApp.swift in Sources */,
